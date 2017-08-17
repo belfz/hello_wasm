@@ -1,0 +1,7 @@
+# rust-specific ignores
+/target/
+**/*.rs.bk
+
+# node-specific ignores
+node_modules
+build
